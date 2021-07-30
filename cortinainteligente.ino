@@ -17,8 +17,8 @@ void refCortina(uint8_t brightness);
 
 
 // Change this!!
-const char* ssid = "Martins";
-const char* password = "matheus2007";
+const char* ssid = "rede";
+const char* password = "senha";
 
 boolean wifiConnected = false;
 
